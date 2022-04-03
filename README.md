@@ -10,6 +10,13 @@
 
      Isso ocorre pois o pip instala os executáveis do Jupyter no diretório *.local*, então se faz necessário confirmar que **.local/bin/** está adicionado à PATH, o que pode ser feito com `export PATH=$PATH:~/.local/bin` (de forma temporária a cada execução) ou editando **~/.bashrc** para garantir as mudanças para ocasiões futuras. Em seguida, o Jupyter pode ser executado com `jupyter notebook`. Disponível em: <[https://stackoverflow.com/questions/35313876/after-installing-with-pip-jupyter-command-not-found](url)>.
 
+* Utilizando o Try Jupyter:
+
+     <[https://jupyter.org/try-jupyter/retro/notebooks/?path=Untitled.ipynb](url)>
+
+     <[https://docs.jupyter.org/en/latest/start/index.html](url)>
+
+     <[https://jupyter.org/try](url)>
 * 
 
 
